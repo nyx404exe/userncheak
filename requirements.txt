@@ -1,0 +1,5 @@
+# OSINT Recon Suite Python Dependencies
+# Usage: pip install -r requirements.txt (or pipx install <package>)
+
+holehe>=1.6.1
+maigret>=0.4.4
